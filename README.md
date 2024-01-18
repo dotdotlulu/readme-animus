@@ -1,11 +1,9 @@
 > Changelog(Mudanças): Animus Platform Spartan v1.3.0-public-release, Prévia
-> Data prevista para o lançamento da atualização: Planejada
 
 - Novos ícones e nome
 - Relatórios
 
 > Changelog(Mudanças): Animus Platform Spartan v1.2.0-public-release, Prévia
-> Data prevista para o lançamento da atualização: 19 de Janeiro de 2024
 
 - Esperamos ainda com esta atualização lançar a tão esperada funcionalidade de avaliação de alunos que permite que professores e tutores avaliem o desempenho dos alunos de uma forma moderna, o nosso ranking é baseado em diversos algorítmos construídos especialmente para o animus pelo nosso time de engenharia, fique ligado(a) para novidades!
 - Os relatórios chegam posteriormente a atualização de tutor para permitir que se saiba o atual desempenho da plataforma de uma forma simples e fácil.
