@@ -14,6 +14,10 @@
 
 - Melhorias visuais, correção de cores
 - Migração de Alunos, Professores e Tutores de períodos
+- Corrigido um bug que impedia a remoção de vídeos já enviados
+- Corrigido um bug que impedia a criação de playlists
+- Melhoria visual para todas as interfaces de vídeos
+- Corrigido um bug que impedia a adição de vídeos em playlists
 
 > Changelog(Mudanças): Animus Platform Spartan v1.0.0-public-release, built on 2023-10-01T00:34:45.700Z
 
