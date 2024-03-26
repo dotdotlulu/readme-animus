@@ -1,2 +1,2 @@
 ### Status da Plataforma
-- <span style="color:green">Operacional</span>
+<span style="color:green">Operacional</span>
