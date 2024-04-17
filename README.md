@@ -1,0 +1,2 @@
+### Status da Plataforma
+Operacional
